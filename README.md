@@ -7,6 +7,7 @@ This repository contains data and other resources for VRDI's Introduction to GIS
 Cartography Resources:
 * [Radical Cartography](http://www.radicalcartography.net)
 * [Axis Maps Cartography Guide](https://www.axismaps.com/guide/)
+* [Making Maps: DIY Cartography](https://makingmaps.net)
 * [ColorBrewer](http://colorbrewer2.org/#)
 
 QGIS Resources:
